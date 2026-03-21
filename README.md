@@ -1,2 +1,2 @@
 # Security
-stuff I wrote with the goal improving security on things
+stuff I wrote related to security
