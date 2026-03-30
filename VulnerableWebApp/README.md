@@ -1,4 +1,4 @@
-## Vulnerable Web app ##
+## Vulnerable Web App ##
 
 > wrote an intentionally vulnerable web app
 
